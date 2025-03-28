@@ -1,5 +1,7 @@
 # LRFtoPXY
 
+[Download dmg file](https://github.com/veselovich/LRFtoPXY/raw/refs/heads/main/LRFtoPXY.dmg)
+
 This app is designed to help DJI drone operators easily reorganize their video files for use with DaVinci Resolve. The app automatically processes a folder of LRF files, moves them into a new folder "Proxy," and renames them to MP4 format. The low-resolution proxy files are ready for quick editing in DaVinci Resolve, streamlining the workflow for faster video editing and uploading.
 
 ![Intro](img/1_Intro.png)
